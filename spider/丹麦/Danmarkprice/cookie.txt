@@ -1,0 +1,21 @@
+GET
+œÏ”¶Cookie
+ASP.NET_SessionId	
+httpOnly	true
+path	/
+value	ycizudyj15wiqljzlow1gpac
+
+«Î«Ûcookie
+MedicinlisteCookieID	fc843786-5022-40a1-a59a-ef472884da2d
+
+POST
+ASP.NET_SessionId	ycizudyj15wiqljzlow1gpac
+MedicinlisteCookieID	fc843786-5022-40a1-a59a-ef472884da2d
+
+
+ASP.NET_SessionId	ycizudyj15wiqljzlow1gpac
+MedicinlisteCookieID	fc843786-5022-40a1-a59a-ef472884da2d
+
+
+ctl00$ctl07$simpleForm$LaegemiddelBox	%
+ctl00$ctl07$simpleForm$VirksomtstofBox	
