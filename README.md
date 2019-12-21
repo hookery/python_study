@@ -1,5 +1,5 @@
 # python_study
-Learn_python
+Learn_Python
 this is my first project,which is learning python 
 its a good news come to branch
 the feature 1
